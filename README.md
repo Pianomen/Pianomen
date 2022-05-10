@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+
+<a href="https://info.flagcounter.com/0OGe"><img src="https://s05.flagcounter.com/map/0OGe/size_m/txt_000000/border_7041CC/pageviews_0/viewers_0/flags_0/" alt="Flag Counter" border="0"></a>
 <!--
 **Pianomen/Pianomen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
